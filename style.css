@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: #121212;
+  color: #DDDDDD;
+  text-align: center;
+  font-size: 16px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 4em;
+}
+
+a {
+  color: #DDDDDD;
+}
+
+.text-gray {
+  color: #999999;
+}

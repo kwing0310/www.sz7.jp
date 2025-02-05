@@ -1,1 +1,1 @@
-# sz7.jp
+# www.sz7.jp
