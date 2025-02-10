@@ -23,3 +23,11 @@ a {
 .text-gray {
   color: #999999;
 }
+
+section {
+  margin-bottom: 3em;
+}
+
+li {
+  list-style-type: none;
+}
